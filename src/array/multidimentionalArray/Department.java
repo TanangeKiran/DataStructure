@@ -33,9 +33,8 @@ public class Department {
 			for(int j=0;j<multiArray[i].length;j++){			
 		
 		System.out.println(multiArray[i][j]);}}
-		//
-//		
-//		
+		
+		
 	}
 
 }
